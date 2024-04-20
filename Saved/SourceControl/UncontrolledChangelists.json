@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/Assests/Logo.uasset",
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/UI/UI_MainMenu.uasset",
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/MainLevel.umap",
+				"C:/Users/Nick/Documents/Unreal Projects/LostMysteries/Content/UI/UI_Options.uasset"
+			]
+		}
+	]
+}
