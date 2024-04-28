@@ -4,7 +4,15 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/BP_PressPuzzle.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TA/XXK62M50R7LSRO2F6VK517.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FI/WSRPNJOA47O23XLKFNBDT1.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CA/3WF5B5E8MIEFL56E8OD7YY.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HP/RD7RS3HYFWEU3WK2FK1MKH.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/D0/JKJIRJCU6ALQCY3UNXEMIO.uasset",
+				"C:/Users/suraf/OneDrive/Documents/GitHub/LostMysteries/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S6/QQHAZY6XE72OHC8Q8HW3IE.uasset"
+			]
 		}
 	]
 }
